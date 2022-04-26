@@ -4,12 +4,12 @@
 
 <p> Site de serviços de limpeza desenvolvido para a empresa Limpeza ao Pormenor. <p>
   
-##### VEJA O SITE FUNCIONANDO AQUI: <a href="http://limpezaproject.epizy.com" target="_blank"> Limpeza Website </a> (obs: os arquivos do site linkado tiveram informações alteradas para manter a privacidade da empresa). <br>
+##### VEJA O SITE FUNCIONANDO AQUI: <a href="http://limpezaproject.epizy.com"> Limpeza Website </a> (obs: os arquivos do site linkado não são os arquivos originais). <br>
 
 ![Final Result](/imgs/preview.png) <br>
 
 ### 📑 SOBRE O WEBSITE
-Este website foi desenvolvido para divulgar os serviços de limpeza profissional da empresa e marcar presença online para a mesma. É um site com bastante responsividade
+Este site foi desenvolvido para divulgar os serviços de limpeza profissional da empresa e marcar presença online para a mesma. É um site com bastante responsividade
 entretanto podem haver alguns eventuais "erros" ou bugs pois infelizmente não encontrei uma solução para deixar tudo 100% perfeito mas, como sou encarregada da
 manutenção do mesmo, vão haver melhorias ao longo do tempo. <br>
 
@@ -67,7 +67,7 @@ Neste site eu usei: <br>
 ### 📚 O QUE EU APRENDI
 Aprendi a utilizar um pouco de jQuery e gostei bastante mas é claro que ainda tenho que melhorar e me aprofundar mais nos estudos para manter um código limpo e
 compreensível. Ao mesmo tempo que amei, odiei aplicar a responsividade neste site mas eu aprendi MUITO! Aprendi um pouco mais o flexbox e grid, usei os dois no projeto mas posteriormente
-após estudar mais um pouco irei melhorar isso também. Aprendi tanta coisa que eu acho que no moomento não sou capaz de detalhar hahah mas, esse é um projeto que nunca vou
+após estudar mais um pouco irei melhorar isso também. Aprendi tanta coisa que eu acho que no momento não sou capaz de detalhar hahah mas, esse é um projeto que nunca vou
 esquecer. Me deu trabalho mas o resultado ficou até legal!
 
 ### 🍜 LICENÇA E PRIVACIDADE

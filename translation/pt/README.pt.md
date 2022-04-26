@@ -73,7 +73,7 @@ esquecer. Me deu trabalho mas o resultado ficou até legal!
 ### 🍜 LICENÇA E PRIVACIDADE
 
 Este projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
-Neste projeto não incluirei os arquivos originais do website para manter a privacidade de alguns dados da empresa.
+No repositório deste projeto não incluirei os arquivos originais do website para manter a privacidade dos dados da empresa.
 
 ##
 

@@ -4,7 +4,7 @@
 
 <p> Cleaning services website developed for the company Limpeza ao Pormenor. <p>
   
-##### CHECK IT WORKING HERE: <a href="http://limpezaproject.epizy.com"> Limpeza Website </a> (obs: the files from the linked website are not the original ones). <br>
+##### CHECK IT WORKING HERE: <a href="https://limpezaaopormenor.pt"> Limpeza ao Pormenor Website </a>. <br>
 
 ![Final Result](/imgs/preview.png) <br>
 
@@ -64,8 +64,8 @@ I learned a bit more of jQuery in practice and I really liked it but of course I
 
 ### 🍜 LICENSE AND PRIVACY
 
-This project is under license. Check it out [LICENSE](LICENSE.md) for more details.<br>
-On this project repository I won't use the original files of the website to preserve the data privacy of the company.
+This project is under license. Check it out here [LICENSE](LICENSE.md) for more details.<br>
+On this project repository I won't upload the files of the website's code to preserve the data privacy of the company.
  
 ##
 

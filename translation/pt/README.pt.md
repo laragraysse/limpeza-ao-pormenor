@@ -4,7 +4,7 @@
 
 <p> Site de serviços de limpeza desenvolvido para a empresa Limpeza ao Pormenor. <p>
   
-##### VEJA O SITE FUNCIONANDO AQUI: <a href="http://limpezaproject.epizy.com"> Limpeza Website </a> (obs: os arquivos do site linkado não são os arquivos originais). <br>
+##### VEJA O SITE FUNCIONANDO AQUI: <a href="https://limpezaaopormenor.pt"> Limpeza ao Pormenor Website </a> <br>
 
 ![Final Result](/imgs/preview.png) <br>
 
@@ -73,7 +73,7 @@ esquecer. Me deu trabalho mas o resultado ficou até legal!
 ### 🍜 LICENÇA E PRIVACIDADE
 
 Este projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
-No repositório deste projeto não incluirei os arquivos originais do website para manter a privacidade dos dados da empresa.
+No repositório deste projeto não incluirei os arquivos de código do website para manter a privacidade de dados da empresa.
 
 ##
 

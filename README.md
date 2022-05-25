@@ -63,7 +63,7 @@ On this website I worked with: <br>
 I learned a bit more of jQuery in practice and I really liked it but of course I have a lot to improve and I need to get deeper in the studies so I can mantain a clean and comprehensive code. Plus, at the same time I loved, I hated the responsiveness part on this website but I really learned A LOT! I learned a bit more of flexbox and grid, I used both on this project but after a few time I'll improve this as well. I learned so much stuff that I can't even manage to remember and detail each thing right now ahah, but I won't ever forget this project. Gave me a little bit of headache but I really liked the result!
 
 ### 🔏 PRIVACY
-On this project repository I won't upload the files of the website's code to preserve the data privacy of the company.
+On this project repository I won't upload the files of the website's code to preserve the data privacy of the company. Maybe in the near future I will upload a modified code of this project.
  
 ##
 

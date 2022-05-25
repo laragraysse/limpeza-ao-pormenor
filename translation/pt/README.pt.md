@@ -70,7 +70,7 @@ compreensível. Ao mesmo tempo que amei, odiei aplicar a responsividade neste si
 após estudar mais um pouco irei melhorar isso também. Aprendi tanta coisa que eu acho que no momento não sou capaz de detalhar hahah mas, esse é um projeto que nunca vou
 esquecer. Me deu trabalho mas o resultado ficou até legal!
 
-### 🍜 LICENÇA E PRIVACIDADE
+### 🔏 LICENÇA E PRIVACIDADE
 
 Este projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
 No repositório deste projeto não incluirei os arquivos de código do website para manter a privacidade de dados da empresa.

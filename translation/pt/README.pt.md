@@ -71,8 +71,6 @@ após estudar mais um pouco irei melhorar isso também. Aprendi tanta coisa que 
 esquecer. Me deu trabalho mas o resultado ficou até legal!
 
 ### 🔏 LICENÇA E PRIVACIDADE
-
-Este projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
 No repositório deste projeto não incluirei os arquivos de código do website para manter a privacidade de dados da empresa.
 
 ##
